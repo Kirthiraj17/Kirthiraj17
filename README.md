@@ -1,45 +1,44 @@
-# 💫 About Me:
-👋 Hey, I’m Kirthiraj
+# 👋 Hi, I’m Kirthiraj
 
+🎓 Recent MS Graduate
 📍 Based in Chicago
-🎓 MS Graduate navigating the U.S. tech world
+🌱 Constantly building, constantly learning
 
-🌱 What I’m Currently Doing
+✨ Who I Am
+I’m someone who believes growth is built quietly  through consistency, resilience, and showing up every single day.
+I recently completed my Master’s, and I’m now navigating the U.S. job market with focus, patience, and determination. It’s competitive. It’s unpredictable. But it’s shaping me into a stronger, sharper, and more disciplined version of myself.
+I’m not just looking for a role — I’m building long-term capability.
 
-Building myself — one project, one lesson, and one challenge at a time.
+🚀 What I’m Focused On
 
-I recently completed my Master’s and I’m focused on growing into a strong, reliable engineer who builds things that actually make life easier for people. I care about clarity, efficiency, and creating systems that don’t fall apart under pressure.
+• Becoming better than I was yesterday
+• Building meaningful projects that solve real problems
+• Strengthening discipline, communication, and ownership
+• Turning uncertainty into opportunity
 
-🤝 I’m Looking to Collaborate On
+🤝 Open to Collaborate On
 
-Meaningful projects with real-world impact
+• Projects that create real impact
+• Ideas that improve everyday systems
+• Teams that value learning and accountability
+• Opportunities that challenge comfort zones
 
-Ideas that solve everyday inefficiencies
+🌎 The Journey 
 
-Teams that value learning, growth, and ownership
-
-Anything that pushes me outside my comfort zone
-
-🌎 The Honest Part
-
-Being a recent graduate in today’s U.S. job market isn’t easy.
-
-It’s competitive.
-It’s uncertain.
+Being a recent graduate in today’s market tests you.
 It tests your confidence.
-
-But it’s also teaching me resilience, discipline, and how to keep showing up even when things don’t go as planned. Every rejection strengthens my preparation. Every project sharpens my skills.
-
-I’m not just chasing opportunities — I’m building long-term capability.
+It tests your patience.
+It tests your belief in yourself.
+But I’ve learned that resilience compounds. Every rejection builds preparation. Every setback builds perspective. Every day of consistency builds momentum.
+I’m here for the long game.
 
 💬 Ask Me About
 
-Staying consistent during a tough job search
-
+• Staying motivated during tough phases
+• Leadership and teamwork experiences
+• Continuous self-improvement
+• Turning setbacks into fuel
 Balancing learning and applying
-
-Leadership experience from student government
-
 Turning setbacks into momentum
 
 
