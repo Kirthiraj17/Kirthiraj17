@@ -1,5 +1,46 @@
 # 💫 About Me:
-Building my skills in software development through hands-on projects, refining my resume, and actively applying for SDE roles .<br><br>Backend or full-stack development projects, API integrations, automation tools, or any real-world software projects where I can contribute and learn.<br><br>Referrals, networking opportunities, interview preparation, and guidance on breaking into strong product-based tech companies.<br><br>Java development, C/C++ fundamentals, automation projects, or my experience navigating the U.S. job application process as an international graduate.<br><br>Building my skills in software development through hands-on projects, refining my resume, and actively applying for SDE roles after receiving my work permit (OPT EAD).<br>Backend or full-stack development projects, API integrations, automation tools, or any real-world software projects where I can contribute and learn.<br>Referrals, networking opportunities, interview preparation, and guidance on breaking into strong product-based tech companies.<br>Java development, C/C++ fundamentals, automation projects, or my experience navigating the U.S. job application process as an international graduate.<br><br>I enjoy optimizing and automating repetitive tasks — if something can be done more efficiently, I’ll probably try to build a solution for it.
+👋 Hey, I’m Kirthiraj
+
+📍 Based in Chicago
+🎓 MS Graduate navigating the U.S. tech world
+
+🌱 What I’m Currently Doing
+
+Building myself — one project, one lesson, and one challenge at a time.
+
+I recently completed my Master’s and I’m focused on growing into a strong, reliable engineer who builds things that actually make life easier for people. I care about clarity, efficiency, and creating systems that don’t fall apart under pressure.
+
+🤝 I’m Looking to Collaborate On
+
+Meaningful projects with real-world impact
+
+Ideas that solve everyday inefficiencies
+
+Teams that value learning, growth, and ownership
+
+Anything that pushes me outside my comfort zone
+
+🌎 The Honest Part
+
+Being a recent graduate in today’s U.S. job market isn’t easy.
+
+It’s competitive.
+It’s uncertain.
+It tests your confidence.
+
+But it’s also teaching me resilience, discipline, and how to keep showing up even when things don’t go as planned. Every rejection strengthens my preparation. Every project sharpens my skills.
+
+I’m not just chasing opportunities — I’m building long-term capability.
+
+💬 Ask Me About
+
+Staying consistent during a tough job search
+
+Balancing learning and applying
+
+Leadership experience from student government
+
+Turning setbacks into momentum
 
 
 # 💻 Tech Stack:
